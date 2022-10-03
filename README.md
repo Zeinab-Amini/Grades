@@ -1,3 +1,8 @@
+In this project their is a dictionary with five kids and their grades.
+With a for loop the program will go threw each student and catigorize them.
+If the score is above 90 it is outstanding, above 80 is Exceeds Expectations, above 70 is Acceptable and anything else is a fail. 
+
+
 ## Grading Program
 
 # UPDATE
